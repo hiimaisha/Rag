@@ -1,6 +1,4 @@
-streamlit>=1.36,<2
-pypdf>=4.2,<6
-sentence-transformers>=3.0,<6
-faiss-cpu>=1.8,<2
-numpy>=1.26,<3
-groq>=0.9,<2
+faiss-cpu
+pypdf
+sentence-transformers
+numpy
